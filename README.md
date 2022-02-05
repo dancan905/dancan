@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dancan Nyaribo
+- 👋 Hi, I’m Dancan Nyaribo, computer survy Statistical analyst with indepth knowledge of STATA SPSS and R
 - 👀 I’m interested in robotics processes and automation
 - 🌱 I’m currently learning data extraction with mysql and data analysis in excel and how to automate the same.
 - 💞️ I’m looking to collaborate on qualified data scientists and and RPA developers to increase my knowledge in automation
